@@ -1,6 +1,6 @@
 function login(username, password) {
     // Check valid admin login
-    if (username === "admin" && password === "999") {
+    if (username === "admin" && password === "123") {
         return true;
     }
 
